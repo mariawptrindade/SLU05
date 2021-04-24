@@ -4,3 +4,4 @@ Groceries:
 - Milk
 - Bananas
 - Butter
+- Eggs
